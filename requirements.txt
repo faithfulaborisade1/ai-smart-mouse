@@ -1,0 +1,13 @@
+numpy>=1.19.0
+opencv-python>=4.5.3
+mss>=6.1.0
+pyautogui>=0.9.53
+keyboard>=0.13.5
+torch>=1.9.0
+torchvision>=0.10.0
+# For YOLOv5 (optional)
+matplotlib>=3.2.2
+PyYAML>=5.3.1
+scipy>=1.4.1
+tqdm>=4.41.0
+seaborn>=0.11.0
